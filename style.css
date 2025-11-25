@@ -63,12 +63,10 @@ h2, h3 {
     border-radius: 10px;
 }
 
-
 .para {
     margin-top: 10px;
     text-align: justify;
      font-size: 20px;
-
 
 }
 
@@ -84,7 +82,6 @@ h2, h3 {
     text-align: center;
     padding: 10px;
 
-
 }
 
 .contact-table {
@@ -98,7 +95,6 @@ h2, h3 {
     padding: 10px;
     vertical-align: top;
      font-size: 20px;
-
 }
 
 .contact-table input,
